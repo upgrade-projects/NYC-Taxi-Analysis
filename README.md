@@ -1,1 +1,3 @@
-"# NYC-Taxi-Analysis" 
+In this case study,  Exploratory Data Analytics is Performed , with the help of a dataset on yellow taxi rides in New York City. Taxis play a crucial role in New York City’s urban transport network. With the city’s dynamic environment, taxi companies need to continuously adapt and optimise their operations to meet changing demand patterns, ensure profitability, and enhance customer satisfaction.
+
+Taxi operation in NYC is using the 2023 taxi trip data,  to uncover insights that could help optimise taxi operations. The goal is to analyse patterns in the data that can inform strategic decisions to improve service efficiency, maximise revenue, and enhance passenger experience.
